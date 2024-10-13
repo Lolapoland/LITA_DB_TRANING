@@ -14,6 +14,6 @@ The data sources used for the training are been produced by my tutors.
   2. For Data Analysis
   3. For Data Visualization: Pivot Table was used for the data visualization where data can be presented with the use of barcharts, Picharts Pictogram
      
-- SQL - Structured Querying Language for Qurey of Data
+- SQL - Structured Querying Language for Querying of Data
 - Github for Portfoilo Building
 
