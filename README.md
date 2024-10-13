@@ -12,7 +12,7 @@ The data sources used for the training are been produced by my tutors.
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   1. For Data Cleaning
   2. For Data Analysis
-  3. For Data Visualization: Pivot Table was used for the data visualization where data can be presented with the use of barcharts, Picharts Pictogram
+  3. For Data Visualization: Pivot Table was used for the data visualization where data can be presented with the use of barcharts, Picharts Pictogram for the interaction and understanding of the user.
      
 - SQL - Structured Querying Language for Querying of Data
 - Github for Portfoilo Building
