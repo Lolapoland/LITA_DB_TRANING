@@ -17,3 +17,14 @@ The data sources used for the training are been produced by my tutors.
 - SQL - Structured Querying Language for Querying of Data
 - Github for Portfoilo Building
 
+ ### Data Cleaning and Prepartion
+ In the initial phase of the Data cleaning and preparations, i perfomed the following action;
+   1. Data loading and inspection
+   2. Handling missi ng variables
+   3. Data Cleaning and formating
+
+### Explorating Data Analysis
+EDA involved the explorating of the Data to answer some questions about the Data such as;
+- What is the overall sales trend
+- Which product are top sellers
+- What are the products on peak sales?
